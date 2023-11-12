@@ -1,6 +1,6 @@
 # UI-Swiper
 
-*Посмотреть демо [на Codepen](https://codepen.io/AlexTur/pen/PoVjOpX)*
+*[Посмотреть демо ](https://alekseiturl.github.io/UI-Swiper/)*
 
 Функция динамической инициализации слайдера на мобильных разрешениях. **Функция принимает следующие параметры:**
 
